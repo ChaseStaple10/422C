@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/422C.iml" filepath="$PROJECT_DIR$/.idea/422C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountDigits/CountDigits.iml" filepath="$PROJECT_DIR$/CountDigits/CountDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloYou/HelloYou.iml" filepath="$PROJECT_DIR$/HelloYou/HelloYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunLengthEncode/RunLengthEncode.iml" filepath="$PROJECT_DIR$/RunLengthEncode/RunLengthEncode.iml" />
     </modules>
   </component>
 </project>
