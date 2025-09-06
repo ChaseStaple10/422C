@@ -1,3 +1,5 @@
+package class3;
+
 public class RunLengthEncode {
     public static String runLengthEncode(String str) {
         StringBuilder encoded = new StringBuilder();

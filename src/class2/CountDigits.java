@@ -1,3 +1,5 @@
+package class2;
+
 public class CountDigits {
     public static void main(String[] args) {
         int count = 0;
